@@ -1,6 +1,3 @@
-require_relative 'smell_detector'
-require_relative 'smell_warning'
-
 module Reek
   module Smells
     # Checking for nil is a special kind of type check, and therefore a case of

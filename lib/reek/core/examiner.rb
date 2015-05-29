@@ -6,7 +6,7 @@
 # See also https://github.com/troessner/reek/pull/468
 require_relative 'tree_walker'
 require_relative '../cli/warning_collector'
-require_relative '../smells/smell_repository'
+require_relative '../smells'
 require_relative '../source/source_repository'
 
 module Reek

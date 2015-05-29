@@ -1,5 +1,5 @@
 require_relative '../../spec_helper'
-require_relative '../../../lib/reek/smells/uncommunicative_module_name'
+require_relative '../../../lib/reek/smells'
 require_relative 'smell_detector_shared'
 require_relative '../../../lib/reek/context/code_context'
 

@@ -1,5 +1,5 @@
 require_relative '../../spec_helper'
-require_relative '../../../lib/reek/smells/smell_configuration'
+require_relative '../../../lib/reek/smells'
 
 RSpec.shared_examples_for 'SmellDetector' do
   context 'exception matching follows the context' do

@@ -1,5 +1,5 @@
 require_relative '../../spec_helper'
-require_relative '../../../lib/reek/smells/too_many_statements'
+require_relative '../../../lib/reek/smells'
 require_relative 'smell_detector_shared'
 require_relative '../../../lib/reek/source/source_code'
 

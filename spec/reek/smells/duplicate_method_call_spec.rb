@@ -1,5 +1,5 @@
 require_relative '../../spec_helper'
-require_relative '../../../lib/reek/smells/duplicate_method_call'
+require_relative '../../../lib/reek/smells'
 require_relative '../../../lib/reek/context/code_context'
 require_relative '../../../lib/reek/core/tree_walker'
 require_relative 'smell_detector_shared'

@@ -1,3 +1,8 @@
+require_relative 'smells/smell_configuration'
+require_relative 'smells/smell_repository'
+require_relative 'smells/smell_warning'
+
+require_relative 'smells/smell_detector'
 require_relative 'smells/attribute'
 require_relative 'smells/boolean_parameter'
 require_relative 'smells/class_variable'

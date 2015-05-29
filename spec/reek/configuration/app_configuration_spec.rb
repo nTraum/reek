@@ -1,6 +1,6 @@
 require_relative '../../spec_helper'
 require_relative '../../../lib/reek/configuration/app_configuration'
-require_relative '../../../lib/reek/smells/smell_repository'
+require_relative '../../../lib/reek/smells'
 
 RSpec.describe Reek::Configuration::AppConfiguration do
   let(:sample_configuration_path) { 'spec/samples/simple_configuration.reek' }

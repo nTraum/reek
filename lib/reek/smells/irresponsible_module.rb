@@ -1,6 +1,4 @@
 require_relative '../core/code_comment'
-require_relative 'smell_detector'
-require_relative 'smell_warning'
 
 module Reek
   module Smells

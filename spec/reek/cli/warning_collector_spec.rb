@@ -1,6 +1,6 @@
 require_relative '../../spec_helper'
 require_relative '../../../lib/reek/cli/warning_collector'
-require_relative '../../../lib/reek/smells/smell_warning'
+require_relative '../../../lib/reek/smells'
 
 RSpec.describe Reek::CLI::WarningCollector do
   before(:each) do

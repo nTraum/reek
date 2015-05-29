@@ -1,5 +1,4 @@
 require 'set'
-require_relative 'smell_configuration'
 
 module Reek
   module Smells
